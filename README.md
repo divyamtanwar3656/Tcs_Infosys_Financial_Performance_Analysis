@@ -1,4 +1,5 @@
-#Financial Performance Analysis — TCS vs Infosys (FY2019–FY2023)
+# Financial Performance Analysis — TCS vs Infosys (FY2019–FY2023)
+
 First I downloaded a messy data of Indian companies, then i extracted clean data ( profit/loss , balance sheet, and cash flows) in excel for two companies - TCS and INFOSYS.
 After that I calculated financial ratios  and presented the data using Matplotlib, pandas, and seaborn
 
