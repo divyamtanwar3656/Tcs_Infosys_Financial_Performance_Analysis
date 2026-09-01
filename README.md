@@ -1,5 +1,6 @@
 # Financial_Performance_Analysis
 
+KEY TAKEAWAYS
 1. Infosys grew revenue faster — up ~77% from FY2019 to FY2023 vs TCS's ~54%
 2. TCS leads on ROE (~40% avg) — more capital-efficient than Infosys (~27%)
 3. TCS held operating margins slightly higher and more steadily than Infosys
